@@ -1,5 +1,5 @@
 /**
- * InsertionSort program completes an insertion sort on both an
+ * InsertionSort completes an insertion sort on both an
  * Array and ArrayList, functions insertArray and insertList are
  * given a random integer to place in the appropriate position. 
  * Program prints a list of unsorted integers and then two lists
