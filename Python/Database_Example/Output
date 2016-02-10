@@ -1,0 +1,15 @@
+Frazer-MacBook:Database_Example Frazer$ python3 summary.py ebert 2005 6
+--- Sakila DVD Rentals ---
+
+Monthly report for Leo Ebert
+
+Lonely Elephant               06/16/2005           2.99
+               **late fee                          0.99
+Enemy Odds                    06/18/2005           4.99
+               **late fee                          0.99
+Song Hedwig                   06/20/2005           0.99
+               **late fee                          0.99
+Wash Heavenly                 06/21/2005           4.99
+Hurricane Affair              06/21/2005           2.99
+
+Monthly total: $19.92
